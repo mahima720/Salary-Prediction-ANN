@@ -29,8 +29,6 @@ This repository features a Deep Learning Regression model built with TensorFlow/
 
 - **Pipeline Preservation:** Managing multiple transformation objects (encoders and scalers) to ensure data consistency between training and production.
 
-- **Probability Analysis:** Interpreting sigmoid output values as actionable risk percentages.
-
 - **Frontend Design:** Mapping complex data structures to user-friendly UI components.
 
 ## How it Works
