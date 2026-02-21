@@ -2,6 +2,11 @@
 
 This repository features a Deep Learning Regression model built with TensorFlow/Keras to predict a customer's estimated salary based on demographic and banking data. The model is deployed via an interactive Streamlit web interface.
 
+# 🔗 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://salary-prediction-regression-ann.streamlit.app/)
+
+![UI](/images/image.png)
+
 ## ✨ Features
 
 * **🧠 Deep Learning Engine:** Utilizes a multi-layer Artificial Neural Network (ANN) trained on historical bank customer data.
